@@ -1,5 +1,4 @@
-# trn-documentation
-A documentation for TechRecruitNinja
+# Documentation for TechRecruit Ninja
 
 Refer to the [wiki](https://github.com/TechRecruitNinja/trn-documentation/wiki) page.
 
