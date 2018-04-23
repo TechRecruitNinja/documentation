@@ -14,7 +14,7 @@
     + [Deleting A Candidate](Deleting-Candidate)
 
 
-Refer to the [wiki](https://github.com/TechRecruitNinja/trn-documentation/wiki) page.
+Refer to the [wiki](https://github.com/TechRecruitNinja/documentation/wiki) page or [GH Pages](https://techrecruitninja.github.io/documentation/).
 
 Thank you.
 
