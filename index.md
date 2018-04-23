@@ -2,7 +2,7 @@
 
  _It's A Work In Progress_
 
-### Table of Contents
+### Table of Contents - Index
 - [Installation](Installation)
 - [Users](Users)
     + [Creating A New User](Creating-New-User)
@@ -13,9 +13,6 @@
     + [Updating A Candidate](Updating-Candidate)
     + [Deleting A Candidate](Deleting-Candidate)
 
-
-Refer to the [wiki](https://github.com/TechRecruitNinja/trn-documentation/wiki) page.
-
-Thank you.
+For any inquiries or support, please contact support@techrecruit.ninja
 
 TechRecruit Ninja
