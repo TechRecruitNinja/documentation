@@ -4,7 +4,7 @@
 <h3 align="center">TechRecruit Ninja Documentation</h3>
 <p align="center">A Work In Progress Documentation.</p>
 
-## Table of Contents
+# Table of Contents
 1. [Installation](Installation)
 2. [Users](Users)
     + [Creating A New User](Creating-New-User)
@@ -16,6 +16,10 @@
     + [Deleting A Candidate](Deleting-Candidate)
 4. [Contact](Contact)
 
+# Feature Requests
+If you have any ideas/features you'd like us to implement in TRN, kindly submit an issue on our [feature-request](https://github.com/TechRecruitNinja/feature-requests) repo.
+
+# Contact
 For any inquiries or support, please contact support@techrecruit.ninja or drop us a message on [Facebook Messenger](http://m.me/techrecruitninja).
 
 © TechRecruit Ninja 2018.
