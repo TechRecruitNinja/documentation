@@ -11,6 +11,7 @@ Refer to our [GH Pages](https://techrecruitninja.github.io/documentation/) for t
 ## Feature Requests
 If you have any ideas/features you'd like us to implement in TRN, kindly submit an issue on our [feature-request](https://github.com/TechRecruitNinja/feature-requests) repo.
 
-
+# Contact
+For any inquiries or support, please contact **support@techrecruit.ninja** or drop us a message on [Facebook Messenger](http://m.me/techrecruitninja) ![messenger](./messenger.png)
 
 © TechRecruit Ninja 2018.
