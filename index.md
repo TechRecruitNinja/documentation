@@ -13,6 +13,6 @@
     + [Updating A Candidate](Updating-Candidate)
     + [Deleting A Candidate](Deleting-Candidate)
 
-For any inquiries or support, please contact support@techrecruit.ninja
+For any inquiries or support, please contact support@techrecruit.ninja or Send us a message on [Facebook Messenger](http://m.me/techrecruitninja).
 
-TechRecruit Ninja
+© TechRecruit Ninja 2018.
