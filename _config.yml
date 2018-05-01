@@ -1,7 +1,8 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 title: TechRecruit Ninja Documentation
 email: support@techrecruit.ninja
 description: A documentation in helping you setup TRN Database Portal
+logo: https://techrecruit.ninja/assets/images/ninja.png
 url: "https://techrecruit.ninja/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: techrecninja
 github_username:  techrecruitninja
