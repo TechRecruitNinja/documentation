@@ -6,8 +6,9 @@
 - Install any API Environment software of your choice – Postman, Insomnia
 
 ## Pre-requisite:
-- Navigate to `etc/hosts` file and Add `dev.recruit.com` right beside the line that displays `127.0.0.1` – This is to indicate that we are whitelisting dev.recruit.com as a localhost address 
+- Navigate to `etc/hosts` file and Add `dev.recruit.com` right beside the line that displays `127.0.0.1` – This is to indicate that we are whitelisting dev.recruit.com as a localhost address. Sample of the edit below:
 
+![whitelist](https://imgur.com/P1vGA33.png)
 
 # Database
 
@@ -38,3 +39,18 @@
 5.	Run `npm run start` to start the back-end server
 6.	Server is available for API CRUD operations via [http://dev.recruit.com:8030](http://dev.recruit.com:8030)
 
+
+# Production Usage
+
+In order to use the portal and server in your production environment, kindly update the following files:
+
+## Portal
+
+1. Update the  `config/index.js` file.
+2. Under the `build` object, update the `serviceUrl` with your Production URL of your choice.
+
+## Server
+
+1. Update the `config/production.json` file.
+2. Replace `<<YOUR_PRODUCTION_IP_ADDRESS>>` with your Production IP Address of your VPS instance.
+2. Replace `http://<<YOUR_PORTAL_URL>>` and `https://<<YOUR_PORTAL_URL_WITH_HTTPS>>` with your Production Portal URL you have setup.

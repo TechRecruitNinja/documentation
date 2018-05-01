@@ -1,6 +1,6 @@
 # Documentation for TechRecruit Ninja
 
- _It's A Work In Progress_
+ A Work In Progress Documentation.
 
 ### Table of Contents - Index
 - [Installation](Installation)
