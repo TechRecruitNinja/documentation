@@ -1,4 +1,8 @@
-A Work In Progress Documentation.
+<p align="center"><img src="https://raw.githubusercontent.com/TechRecruitNinja/documentation/master/logo.png" alt="" data-canonical-src="https://raw.githubusercontent.com/TechRecruitNinja/documentation/master/logo.png" width="200" height="200" />
+</p>
+
+<h3 align="center">TechRecruit Ninja Documentation</h3>
+<p align="center">A Work In Progress Documentation.</p>
 
 ## Table of Contents
 1. [Installation](Installation)
