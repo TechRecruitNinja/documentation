@@ -17,7 +17,7 @@ Before you get started, ensure that you have the following installed on your mac
 
 # Start the Installation
 1. Navigate to `etc/hosts` file and Add `dev.recruit.com` right beside the line that displays `127.0.0.1` – This is to indicate that we are whitelisting dev.recruit.com as a localhost address. Sample of the edit below:
-...![whitelist](https://imgur.com/P1vGA33.png)
+![whitelist](https://imgur.com/P1vGA33.png)
 
 
 ## Database
@@ -59,8 +59,19 @@ In order to use the client portal and server in your production environment, kin
 1. Update the  `config/index.js` file.
 2. Under the `build` object, update the `serviceUrl` with your Production URL of your choice.
 
+### Building process
+To compile the application, simply run `npm run build`. It will produce a `dist` folder in which will run in your production environment.
+
 ## Server
 
 1. Update the `config/production.json` file.
 2. Replace `<<YOUR_PRODUCTION_IP_ADDRESS>>` with your Production IP Address of your VPS instance.
 2. Replace `http://<<YOUR_PORTAL_URL>>` and `https://<<YOUR_PORTAL_URL_WITH_HTTPS>>` with your Production Portal URL you have setup.
+
+### Building process
+To compile the application and run, simply run `npm run start-production`. This will initiate the Node.js application.
+
+#### Tip
+To run the server in the background, I would recommend installing and using PM2, an advanced [Node.js process manager](http://pm2.keymetrics.io/). It has all kinds of cool features such as logging, watch and reload, monitoring, startup scripts and many more.
+
+**Installation** -  `npm install pm2 -g`
