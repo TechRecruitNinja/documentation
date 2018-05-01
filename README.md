@@ -1,4 +1,7 @@
 # Documentation for TechRecruit Ninja
+<p align="center"><img src="https://raw.githubusercontent.com/TechRecruitNinja/documentation/master/logo.png" alt="" data-canonical-src="https://raw.githubusercontent.com/TechRecruitNinja/documentation/master/logo.png" width="200" height="200" />
+</p>
+
 ## Table of Contents
 - [Installation](Installation)
 - [Users](Users)
