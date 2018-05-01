@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-leap-day
 title: TechRecruit Ninja Documentation
 email: support@techrecruit.ninja
 description: A documentation in helping you setup TRN Database Portal
