@@ -1,18 +1,29 @@
-# Install dependencies:
+# Getting Started
+Before you get started, ensure that you have the following installed on your machine:
 
 - Install Node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
-- Install Node Version Manager – Switch between node versions - [https://github.com/creationix/nvm](https://github.com/creationix/nvm)
-- Install any IDE/Text Editor of your choice – Visual Studio Code, Atom, Sublime Text 3
-- Install any API Environment software of your choice – Postman, Insomnia
+- Install Node Version Manager – Switch between node versions
+    + Mac/Linux - [https://github.com/creationix/nvm](https://github.com/creationix/nvm)
+    + Windows - [https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+- Install Automatic Version Switching for Node.js - [https://github.com/wbyoung/avn](https://github.com/wbyoung/avn) _*Optional, if you prefer switching node versions manually instead_
+- Install any IDE/Text Editor of your choice
+    + Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/) 
+    + Atom - [https://atom.io/](https://atom.io/)
+    + Sublime Text 3 - [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
+- Install any API Environment software of your choice
+    + Postman - [https://www.getpostman.com/](https://www.getpostman.com/)
+    + Insomnia - [https://insomnia.rest/](https://insomnia.rest/)
 
-## Pre-requisite:
-- Navigate to `etc/hosts` file and Add `dev.recruit.com` right beside the line that displays `127.0.0.1` – This is to indicate that we are whitelisting dev.recruit.com as a localhost address. Sample of the edit below:
+
+# Start the Installation
+1. Navigate to `etc/hosts` file and Add `dev.recruit.com` right beside the line that displays `127.0.0.1` – This is to indicate that we are whitelisting dev.recruit.com as a localhost address. Sample of the edit below:
 
 ![whitelist](https://imgur.com/P1vGA33.png)
 
+
 # Database
 
-**Note:** Requires version 5.7 to run the entire software application. For those requiring help downgrading from MariaDB to MySQL, kindly follow this tutorial - [https://gist.github.com/odan/c799417460470c3776ffa8adce57eece](https://gist.github.com/odan/c799417460470c3776ffa8adce57eece)
+**Note:** Requires MySQL version 5.7 to run the entire software application. For those requiring help downgrading from MariaDB to MySQL, kindly follow this tutorial - [https://gist.github.com/odan/c799417460470c3776ffa8adce57eece](https://gist.github.com/odan/c799417460470c3776ffa8adce57eece)
 
 1.	Use any SQL IDE of your preference.
 2.	Copy the Databse.sql script and run it in the IDE.

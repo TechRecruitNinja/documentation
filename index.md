@@ -1,18 +1,17 @@
-# Documentation for TechRecruit Ninja
+A Work In Progress Documentation.
 
- A Work In Progress Documentation.
-
-### Table of Contents - Index
-- [Installation](Installation)
-- [Users](Users)
+## Table of Contents
+1. [Installation](Installation)
+2. [Users](Users)
     + [Creating A New User](Creating-New-User)
     + [Updating User Credentials](Updating-User-Credentials)
-- [Candidates](Candidates)
+3. [Candidates](Candidates)
     + [Creating A New Candidate](Creating-New-Candidate)
     + [Viewing A Candidate Profile](View-Candidate)
     + [Updating A Candidate](Updating-Candidate)
     + [Deleting A Candidate](Deleting-Candidate)
+4. [Support](Support)
 
-For any inquiries or support, please contact support@techrecruit.ninja or Send us a message on [Facebook Messenger](http://m.me/techrecruitninja).
+For any inquiries or support, please contact support@techrecruit.ninja or drop us a message on [Facebook Messenger](http://m.me/techrecruitninja).
 
 © TechRecruit Ninja 2018.

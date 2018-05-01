@@ -1,4 +1,4 @@
-Users in this case are recruiters/agents logging into the system and managing the data.
+Users in this case are recruiters/agents logging into the system and managing the candidate's data.
 
 You can do the following:
 
