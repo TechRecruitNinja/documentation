@@ -10,7 +10,7 @@ A Work In Progress Documentation.
     + [Viewing A Candidate Profile](View-Candidate)
     + [Updating A Candidate](Updating-Candidate)
     + [Deleting A Candidate](Deleting-Candidate)
-4. [Support](Support)
+4. [Contact](Contact)
 
 For any inquiries or support, please contact support@techrecruit.ninja or drop us a message on [Facebook Messenger](http://m.me/techrecruitninja).
 
