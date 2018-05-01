@@ -1,3 +1,7 @@
 theme: minima
 title: TechRecruit Ninja Documentation
+email: support@techrecruit.ninja
 description: A documentation in helping you setup TRN Database Portal
+url: "https://techrecruit.ninja/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: techrecninja
+github_username:  techrecruitninja

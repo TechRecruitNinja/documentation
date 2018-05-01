@@ -1,3 +1,5 @@
+# Candidates
+
 Candidates are what we refer to when we want insert and update their information.
 
 You can do the following:
