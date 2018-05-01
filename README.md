@@ -1,8 +1,5 @@
 # Documentation for TechRecruit Ninja
-
- _It's A Work In Progress_
-
-### Table of Contents
+## Table of Contents
 - [Installation](Installation)
 - [Users](Users)
     + [Creating A New User](Creating-New-User)
@@ -13,9 +10,6 @@
     + [Updating A Candidate](Updating-Candidate)
     + [Deleting A Candidate](Deleting-Candidate)
 
+Refer to the [GH Pages](https://techrecruitninja.github.io/documentation/) for the up-to-date version.
 
-Refer to the [wiki](https://github.com/TechRecruitNinja/documentation/wiki) page or [GH Pages](https://techrecruitninja.github.io/documentation/).
-
-Thank you.
-
-TechRecruit Ninja
+© TechRecruit Ninja 2018.
