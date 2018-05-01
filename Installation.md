@@ -1,4 +1,4 @@
-## Install dependencies:
+# Install dependencies:
 
 - Install Node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
 - Install Node Version Manager – Switch between node versions - [https://github.com/creationix/nvm](https://github.com/creationix/nvm)
