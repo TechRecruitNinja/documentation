@@ -1,5 +1,5 @@
 # Documentation for TechRecruit Ninja
-_This documentation will server all technical purpose of setting up TechRecruit Ninja on your platforms._
+_This documentation will serve all technical purpose of setting up TechRecruit Ninja on your platforms._
 
 <p align="center"><img src="https://raw.githubusercontent.com/TechRecruitNinja/documentation/master/logo.png" alt="" data-canonical-src="https://raw.githubusercontent.com/TechRecruitNinja/documentation/master/logo.png" width="200" height="200" />
 </p>
