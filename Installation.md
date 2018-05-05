@@ -47,7 +47,7 @@ Before you get started, ensure that you have the following installed on your mac
 1.	Install and run Node v8.1.2
 2.	`cd` into the TRN-Server folder
 3.	Run `npm i`
-4.	Change the Database password inside `lib/utils/config.js` - Required to be in sync with the password you chose for when setting up the database
+4.	Change the Database password inside `config/development.json` and `config/production.json`, under `sql` object - Required to be in sync with the password you chose for when setting up the database
 5.	Run `npm run start` to start the back-end server
 6.	Server is available for API CRUD operations via [http://dev.recruit.com:8030](http://dev.recruit.com:8030)
 
